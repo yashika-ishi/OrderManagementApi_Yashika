@@ -48,14 +48,14 @@
 
 # 📸 **Project Structure**
 <div align="center">
-  <img src="./Project%20Structure%20image-1.png" width="400"/>-1  
-  <img src="./Project%20Structure%20image-2.png" width="400"/>-2  
-  <img src="./Project%20Structure%20image-3.png" width="400"/>-3  
-  <img src="./Project%20Structure%20image-4.png" width="400"/>-4  
-  <img src="./Project%20Structure%20image-5.png" width="400"/>-5  
-  <img src="./Project%20Structure%20image-6.png" width="400"/>-6  
-  <img src="./Project%20Structure%20image-7.png" width="400"/>-7  
-  <img src="./Project%20Structure%20image-8.png" width="400"/>-8
+  <img src="./Project%20Structure%20image-1.png" width="500"/>-1  
+  <img src="./Project%20Structure%20image-2.png" width="500"/>-2  
+  <img src="./Project%20Structure%20image-3.png" width="500"/>-3  
+  <img src="./Project%20Structure%20image-4.png" width="500"/>-4  
+  <img src="./Project%20Structure%20image-5.png" width="500"/>-5  
+  <img src="./Project%20Structure%20image-6.png" width="500"/>-6  
+  <img src="./Project%20Structure%20image-7.png" width="500"/>-7  
+  <img src="./Project%20Structure%20image-8.png" width="500"/>-8
 </div>
 
 ---
